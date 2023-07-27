@@ -1,1 +1,2 @@
 # Heartbeat_Project
+The HeartBeatML project aims to develop a supervised machine learning model that predicts the success rate of heart patients based on various medical features. The success rate will be defined as the likelihood of a patient's with no heart disease. The model will be trained on a labeled dataset consisting of historical patient records, including their medical characteristics and corresponding success outcomes.
